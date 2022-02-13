@@ -1,4 +1,7 @@
 a=100
+b=200
+c=300
+
 git clone is done 
 
 git fetch
